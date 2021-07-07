@@ -1,0 +1,30 @@
+# YAML 1.2
+---
+abstract: "We present a Python toolkit for simulating the propagation dynamics of dissipative solitons in a variant of the Lugiato–Lefever equation (LLE) including dispersion terms of third and fourth order. In addition, the provided software allows to prepare initial conditions given by stationary localized solutions of the standard LLE in the anomalous group-velocity dispersion regime. Propagation scenarios for custom control parameters and initial conditions can be specified by the user via a simple class data structure. We demonstrate the implemented functionality by showing how to obtain stationary solutions of the standard LLE containing a dissipative soliton, and, demonstrating different characteristic propagation scenarios. The pyGLLE software package is open-source and released under the X11 License in a publicly available software repository."
+authors: 
+  -
+    affiliation: "Institute of Quantum Optics (IQO)"
+    family-names: Melchert
+    given-names: "Oliver "
+  -
+    affiliation: "Institute of Quantum Optics (IQO)"
+    family-names: Demircan
+    given-names: "Ayhan "
+cff-version: "1.1.0"
+date-released: 2021-03-09
+doi: "10.1016/j.softx.2021.100741"
+identifiers: 
+  - 
+    type: url
+    value: "https://www.sciencedirect.com/science/article/pii/S235271102100073X#!"
+keywords: 
+  - "Nonlinear partial differential equations"
+  - "Lugiato–Lefever equation"
+  - "Dissipative solitons"
+  - Python
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/ElsevierSoftwareX/SOFTX_2020_88"
+title: "pyGLLE: A Python toolkit for solving the generalized Lugiato–Lefever equation"
+version: "1.0"
+...
